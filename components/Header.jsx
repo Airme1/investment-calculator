@@ -4,6 +4,7 @@ export default function Header(){
         <header id='header'>
             <img src={headImg} alt="logo showing money bag" />
             <h1>Investment Calculator</h1>
+            <h4>By Emmanuel Ochoja</h4>
         </header>
     )
 }
